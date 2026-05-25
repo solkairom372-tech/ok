@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Sleep",
+  "description": "Lumina Sleep es un despertador inteligente pulido con reportes de voz por IA, análisis de transición y registro de recuperación semanal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
